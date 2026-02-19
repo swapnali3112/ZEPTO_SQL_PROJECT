@@ -1,4 +1,4 @@
-<img width="995" height="650" alt="image" src="https://github.com/user-attachments/assets/d6676375-5051-4c70-9005-d120d2c8e5b8" />🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
+ 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 Data Analytics Portfolio Project using SQL on a real e-commerce dataset from Zepto 
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from Zepto — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
@@ -102,7 +102,7 @@ Measured total inventory weight per product category
 🛠️ How to Use This Project
 1.Clone the repository
 
-
+https://github.com/swapnali3112/ZEPTO_SQL_PROJECT.git
 
 
 2.Open zepto_SQL_data_analysis.sql
